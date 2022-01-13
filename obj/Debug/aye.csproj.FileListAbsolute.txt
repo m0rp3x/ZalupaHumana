@@ -1,0 +1,6 @@
+/Users/m0rp3x/Desktop/c# учеба/файлики/aye/aye/bin/Debug/aye.exe
+/Users/m0rp3x/Desktop/c# учеба/файлики/aye/aye/bin/Debug/aye.pdb
+/Users/m0rp3x/Desktop/c# учеба/файлики/aye/aye/obj/Debug/aye.csprojAssemblyReference.cache
+/Users/m0rp3x/Desktop/c# учеба/файлики/aye/aye/obj/Debug/aye.csproj.CoreCompileInputs.cache
+/Users/m0rp3x/Desktop/c# учеба/файлики/aye/aye/obj/Debug/aye.exe
+/Users/m0rp3x/Desktop/c# учеба/файлики/aye/aye/obj/Debug/aye.pdb
