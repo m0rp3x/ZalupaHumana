@@ -30,7 +30,7 @@ namespace ConsoleApp2
             Console.WriteLine($" Ваш профиль \n Вас зовут {fio}\n Ваш возраст {age}\n Ваш вес {weightint} \n Ваш рост {heightint} \n Ваше ИМТ {bmi}  ");
 
             Console.WriteLine();
-
+            Console.WriteLine();
 
 
             if (age < 5)
