@@ -4,3 +4,37 @@
 /Users/m0rp3x/Desktop/c# учеба/файлики/aye/aye/obj/Debug/aye.csproj.CoreCompileInputs.cache
 /Users/m0rp3x/Desktop/c# учеба/файлики/aye/aye/obj/Debug/aye.exe
 /Users/m0rp3x/Desktop/c# учеба/файлики/aye/aye/obj/Debug/aye.pdb
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/aye.exe
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/aye.pdb
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/obj/Debug/aye.csprojAssemblyReference.cache
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/obj/Debug/aye.csproj.CoreCompileInputs.cache
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/obj/Debug/aye.exe
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/obj/Debug/aye.pdb
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/aye.exe.config
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/BouncyCastle.Crypto.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/Google.Protobuf.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/K4os.Compression.LZ4.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/K4os.Hash.xxHash.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/MySql.Data.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/System.Buffers.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/System.ComponentModel.Annotations.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/System.Memory.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/System.Numerics.Vectors.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/Ubiety.Dns.Core.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/ZstdNet.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/Google.Protobuf.pdb
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/Google.Protobuf.xml
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/K4os.Compression.LZ4.xml
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/K4os.Compression.LZ4.Streams.xml
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/K4os.Hash.xxHash.xml
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/MySql.Data.xml
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/System.Buffers.xml
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/System.Memory.xml
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/System.Numerics.Vectors.xml
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/obj/Debug/aye.exe.config
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/obj/Debug/aye.csproj.CopyComplete
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/Dapper.dll
+/Users/m0rp3x/Documents/GitHub/ZalupaHumana/bin/Debug/Dapper.xml
