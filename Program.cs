@@ -26,7 +26,7 @@ namespace aye
             double heightint = int.Parse(height ?? String.Empty);
             double bmi = weightint / (heightint % 100 * heightint % 100);
             Console.WriteLine("Введите id");
-            var id = int.Parse(Console.ReadLixne());
+            var id = int.Parse(Console.ReadLine());
 
             Console.WriteLine();
             Console.WriteLine();
@@ -120,8 +120,7 @@ namespace aye
                             MySqlDataReader reader = command.ExecuteReader();
                             
                             
-                            string constr2 = "Server=185.12.94.106;Database =2p2s10;Uid=2p2s10;pwd=231-429-617;charset=utf8";
-                          
+                            string constr2 = $"Server=185.12.94.106;Database ={Database_name};Uid={db_log};pwd={db_pass};charset=utf8";                          
                             MySqlConnection conn = new MySqlConnection(constr2);
                             
                             conn.Open();
@@ -144,8 +143,9 @@ namespace aye
                             reader.Close(); 
                             conn.Close();
                             
-                            
-                                
+
+
+
                         }
                     }
                 }
