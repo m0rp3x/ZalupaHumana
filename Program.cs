@@ -11,7 +11,7 @@ namespace aye
     {
         public static void Main(string[] args)
         {
-            
+
             Console.WriteLine("Введите cвоё имя и фамилию:");
             var fio = Console.ReadLine();
             Console.WriteLine("Введите ваш возраст");
@@ -39,7 +39,7 @@ namespace aye
 
 
             Console.WriteLine("Происходит загрузка");
-            
+
             for (int i = 10; i < 100; i++)
             {
 
@@ -47,7 +47,7 @@ namespace aye
                 Console.WriteLine(i + 1 + "%");
 
             }
-            
+
             Console.WriteLine("Загрузка успешно завершена");
 
             Console.WriteLine();
@@ -59,22 +59,22 @@ namespace aye
 
             Console.WriteLine();
             Console.WriteLine();
-            
-            
+
+
 
 
             {
-                
+
                 {
-                    
+
                     string constr = "Server=185.12.94.106;Database =2p2s10;Uid=2p2s10;pwd=231-429-617;charset=utf8";
                     MySqlConnection mycon = new MySqlConnection(constr);
-                    
-                    
-                    
+
+
+
                     string sqlExpression =
-                    "INSERT INTO user (fio, age, weight , heint, bmi) VALUES(@fio, @age,@weight, @height, @bmi);";
-                    
+                        "INSERT INTO user (fio, age, weight , heint, bmi) VALUES(@fio, @age,@weight, @height, @bmi);";
+
                     MySqlCommand command = new MySqlCommand(sqlExpression, mycon);
                     using (MySqlConnection connection = new MySqlConnection(constr))
                     {
@@ -91,11 +91,31 @@ namespace aye
                             command.Parameters.Add(nameParam3);
                             command.Parameters.Add(nameParam4);
                             command.Parameters.Add(nameParam5);
-                           
                             MySqlDataReader reader = command.ExecuteReader();
                             
-
-
+                            
+                            string constr2 = "Server=185.12.94.106;Database =2p2s10;Uid=2p2s10;pwd=231-429-617;charset=utf8";
+                          
+                            MySqlConnection conn = new MySqlConnection(constr2);
+                            
+                            conn.Open();
+                            
+                            string sql = "SELECT * FROM user";
+                            
+                            command = new MySqlCommand(sql, conn);
+                            
+                            reader = command.ExecuteReader();
+                            
+                            while (reader.Read())
+                            {
+                               
+                                Console.WriteLine(reader[0].ToString() + " " + reader[1].ToString());
+                            }
+                            reader.Close(); 
+                            conn.Close();
+                            
+                            
+                                
                         }
                     }
                 }
